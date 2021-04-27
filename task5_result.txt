@@ -1,0 +1,50 @@
+
+C:\Users\Pushpanjali\Downloads\core_stable> python task5.py
+Q15961638 - Bihar Museum
+['Q15961638']
+Please give some descreption about the item you are searching for?museum
+Q15961638
+
+C:\Users\Pushpanjali\Downloads\core_stable> python task5.py
+Q15961638 - Bihar Museum
+['Q15961638']
+Please give some descreption about the item you are searching for?museum
+Q15961638
+
+C:\Users\Pushpanjali\Downloads\core_stable> python task5.py
+Q7240239 - Premchand
+['Q7240239']
+Please give some descreption about the item you are searching for?museum
+Q7240239
+
+C:\Users\Pushpanjali\Downloads\core_stable> python task5.py
+Q5 - human
+Q73755406 - human
+Q229565 - Human
+['Q5', 'Q73755406', 'Q229565']
+Please give some descreption about the item you are searching for?people or homosapiens
+Q5
+
+C:\Users\Pushpanjali\Downloads\core_stable> python task5.py
+Q68 - computer
+Q5157408 - Computer
+Q444195 - Computer
+['Q68', 'Q5157408', 'Q444195']
+Please give some descreption about the item you are searching for?electronic device
+Q68
+
+C:\Users\Pushpanjali\Downloads\core_stable> python task5.py
+Q483501 - artist
+Q847689 - artist
+Q99656622 - Artist
+['Q483501', 'Q847689', 'Q99656622']
+Please give some descreption about the item you are searching for?someone who does works related to art
+Q483501
+
+C:\Users\Pushpanjali\Downloads\core_stable> python task5.py
+Q13113395 - Pushpanjali
+Q20581581 - Pushpanjali
+Q19895316 - Pushpanjali
+['Q13113395', 'Q20581581', 'Q19895316']
+Please give some descreption about the item you are searching for?flower in hands
+Q13113395
